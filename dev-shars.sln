@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dev-shars", "dev-shars\dev-shars.csproj", "{D39E3F71-F6AF-498B-B7A1-6B54FB16C208}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dev-CSharp", "dev-CSharp\dev-CSharp.csproj", "{D39E3F71-F6AF-498B-B7A1-6B54FB16C208}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
